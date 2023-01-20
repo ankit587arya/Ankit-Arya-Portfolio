@@ -10,8 +10,8 @@ This project I did as a case study for google data analytics professionl certifi
 * Data visualization using TABLEAU and ggplot2 for sharing the analysis with stakeholders.
 
 # [Superstore Sales](https://public.tableau.com/app/profile/ankit.arya/viz/StoryPointsPresentation_16627114613860/PatternsofLosses)
-*Deriving meaningful insights from data using TABLEAU.
-*Showcasing different aspects of data including pattern of losses with discount by creating a story.
+* Deriving meaningful insights from data using TABLEAU.
+* Showcasing different aspects of data including pattern of losses with discount by creating a story.
 
-#[London Bus Safety](https://public.tableau.com/app/profile/ankit.arya/viz/LondonBusSafety_16573520107610/Dashboard1)
+# [London Bus Safety](https://public.tableau.com/app/profile/ankit.arya/viz/LondonBusSafety_16573520107610/Dashboard1)
 Showcasing different aspects of data including areas with most accidents in London.
